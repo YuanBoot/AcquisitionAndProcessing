@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="example" targetName="glew" />
+      <config projectName="example" targetName="example_bin" />
+      <config projectName="example" targetName="glfw_objects" />
+      <config projectName="example" targetName="glfw" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="037fab4e-f603-4ec3-9035-339b6aff00de" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/CW01.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/codeStyles/Project.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeCache.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CMakeSystem.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CompilerIdC/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/3.10.2/CompilerIdCXX/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/CMakeOutput.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/Makefile2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/link.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/main.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/example_bin.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/feature_tests.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/C.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/cmake_clean_target.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/libigl/external/nanogui/ext/glew/src/glew.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/link.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/glew.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/CMakeFiles/progress.marks" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/cmake_install.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/example_bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/CMakeFiles/progress.marks" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/cmake_install.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/cmake_clean_target.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/link.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/C.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_init.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_joystick.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_monitor.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_time.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_window.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/init.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/input.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/monitor.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/nsgl_context.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/posix_tls.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/vulkan.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/glfw_objects.dir/window.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/CMakeFiles/progress.marks" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/cmake_install.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/glfw3.pc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/glfw3Config.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/glfw3ConfigVersion.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/glfw_config.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/glfw/src/libglfw3.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/build/libglew.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun000.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun000yuan01.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun000yuan02.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun045.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun045yuan01.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun090.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun180.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun270.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/bun315.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/chin.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/ear_back.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/top2.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/data/top3.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/reconstruction/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/reconstruction/bun_zipper.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/reconstruction/bun_zipper_res2.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/reconstruction/bun_zipper_res3.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/bunny/reconstruction/bun_zipper_res4.ply" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeCache.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/Makefile2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/link.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/main.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/example_bin.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/C.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/cmake_clean_target.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/libigl/external/nanogui/ext/glew/src/glew.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/link.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/glew.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/CMakeFiles/progress.marks" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/cmake_install.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/example.cbp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/example_bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/CMakeFiles/progress.marks" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/GLFW.cbp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/cmake_install.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/cmake_clean_target.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/link.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/C.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/DependInfo.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/build.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/cmake_clean.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_init.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_joystick.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_monitor.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_time.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_window.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/depend.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/flags.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/glfw_objects.objlib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/init.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/input.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/monitor.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/nsgl_context.m.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/posix_tls.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/progress.make" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/vulkan.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/glfw_objects.dir/window.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/CMakeFiles/progress.marks" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/cmake_install.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/glfw3.pc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/glfw3Config.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/glfw3ConfigVersion.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/glfw_config.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/glfw/src/libglfw3.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake-build-debug/libglew.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/cmake/FindLIBIGL.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/libigl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/main.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/.gitmodules" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/.travis.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/3rdparty/CMakeLists-fastann.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/3rdparty/CMakeLists-flann.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/3rdparty/CMakeLists-libkdtree.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/CHANGELOG.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/COPYING" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/Doxyfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/randomTests/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/randomTests/fastann_testRandom.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/randomTests/flann_testRandom.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/randomTests/libkdtree_testRandom.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/randomTests/nanoflann_testRandom.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/randomTests/randomTests.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/001/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/002/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/003/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/004/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/005/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/006/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/007/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/008/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/009/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan10.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan8.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/dat_avz/010/scan9.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/fastann_testReal.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/flann_testReal.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/libkdtree_testReal.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/nanoflann_testReal.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/realTests/realTests.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/benchmarkTool/tool.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf1_conv_matrix.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf1_conv_matrix.small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf2_build_index.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf2_build_index.small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf3_query.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf3_query.small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf4_time_saved.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf4_time_saved.small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf5_1e5pts_time_vs_maxleaf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf5_1e5pts_time_vs_maxleaf_double.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/doc/perf5_1e5pts_time_vs_maxleaf_real_dataset.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/KDTreeVectorOfVectorsAdaptor.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/SO2_adaptor_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/SO3_adaptor_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/dynamic_pointcloud_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/example_with_pkgconfig/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/example_with_pkgconfig/pointcloud_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/matrix_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/pointcloud_adaptor_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/pointcloud_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/pointcloud_kdd_radius.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/saveload_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/utils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/examples/vector_of_vectors_example.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/include/nanoflann.hpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/debian/changelog" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/debian/compat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/debian/control" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/debian/copyright" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/debian/libnanoflann-dev.install" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/packaging/debian/rules" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/analyze_leafsize_stats.m" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/analyze_stats.m" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/flann/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/flann/test_flann.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/nanoflann/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/nanoflann/test_leaf_max_size.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/nanoflann/test_nanoflann.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/perf1_conv_matrix.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/perf2_build_index.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/perf3_query.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/perf4_time_saved.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/perf-tests/stats_raw_results-26_aug_2011.tar.bz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/cmake_uninstall.cmake.in" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/nanoflann.pc.in" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/nanoflannConfig.cmake.in" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/nanoflannConfigVersion.cmake.in" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/prepare_debian.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/prepare_release.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/scripts/prepare_ubuntu_pkgs_for_ppa.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/CHANGES" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/CMakeLists.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/CONTRIBUTORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/Makefile.am" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/Makefile.in" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/aclocal.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/cmake/internal_utils.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/codegear/gtest.cbproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/codegear/gtest.groupproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/codegear/gtest_all.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/codegear/gtest_link.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/codegear/gtest_main.cbproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/codegear/gtest_unittest.cbproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/configure" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/configure.ac" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/fused-src/gtest/gtest-all.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/fused-src/gtest/gtest.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/fused-src/gtest/gtest_main.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-death-test.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-message.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-param-test.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-param-test.h.pump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-printers.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-spi.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-test-part.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest-typed-test.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest_pred_impl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/gtest_prod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-death-test-internal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-filepath.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-internal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-linked_ptr.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-param-util-generated.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-param-util-generated.h.pump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-param-util.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-port.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-string.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-tuple.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-tuple.h.pump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-type-util.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/include/gtest/internal/gtest-type-util.h.pump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/acx_pthread.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/gtest.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/libtool.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/ltoptions.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/ltsugar.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/ltversion.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/m4/lt~obsolete.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest-md.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest_main-md.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest_main.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest_prod_test-md.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest_prod_test.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest_unittest-md.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/msvc/gtest_unittest.vcproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/prime_tables.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample1.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample1.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample10_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample1_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample2.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample2.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample2_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample3-inl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample3_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample4.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample4.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample4_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample5_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample6_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample7_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample8_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/samples/sample9_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/scripts/fuse_gtest_files.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/scripts/gen_gtest_pred_impl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/scripts/gtest-config.in" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/scripts/pump.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-all.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-death-test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-filepath.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-internal-inl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-port.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-printers.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-test-part.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest-typed-test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/src/gtest_main.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-death-test_ex_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-death-test_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-filepath_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-linked_ptr_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-listener_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-message_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-options_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-param-test2_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-param-test_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-param-test_test.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-port_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-printers_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-test-part_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-tuple_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-typed-test2_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-typed-test_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-typed-test_test.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest-unittest-api_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_all_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_break_on_failure_unittest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_break_on_failure_unittest_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_catch_exceptions_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_catch_exceptions_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_color_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_color_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_env_var_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_env_var_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_environment_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_filter_unittest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_filter_unittest_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_help_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_help_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_list_tests_unittest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_list_tests_unittest_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_main_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_no_test_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_output_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_output_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_output_test_golden_lin.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_pred_impl_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_premature_exit_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_prod_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_repeat_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_shuffle_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_shuffle_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_sole_header_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_stress_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_test_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_throw_on_failure_ex_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_throw_on_failure_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_throw_on_failure_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_uninitialized_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_uninitialized_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_unittest.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_xml_outfile1_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_xml_outfile2_test_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_xml_outfiles_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_xml_output_unittest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_xml_output_unittest_.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/gtest_xml_test_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/production.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/test/production.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Config/DebugProject.xcconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Config/FrameworkTarget.xcconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Config/General.xcconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Config/ReleaseProject.xcconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Config/StaticLibraryTarget.xcconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Config/TestTarget.xcconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Resources/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Samples/FrameworkSample/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Samples/FrameworkSample/WidgetFramework.xcodeproj/project.pbxproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Samples/FrameworkSample/runtests.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Samples/FrameworkSample/widget.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Samples/FrameworkSample/widget.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Samples/FrameworkSample/widget_test.cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Scripts/runtests.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/Scripts/versiongenerate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/gtest-1.7.0/xcode/gtest.xcodeproj/project.pbxproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/nanoflann/tests/test_main.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/shared/bunny.off" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../CW01/tutorial_shared_path.h" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="134" column="50" lean-forward="false" selection-start-line="134" selection-start-column="50" selection-end-line="134" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="139" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="902" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="example" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Coursework01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.example_bin">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="example_bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example" TARGET_NAME="example_bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="example" RUN_TARGET_NAME="example_bin">
+      <envs />
+    </configuration>
+    <configuration name="glew" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example" TARGET_NAME="glew" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="glfw_objects" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example" TARGET_NAME="glfw_objects" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.example_bin" />
+      <item index="2" class="java.lang.String" itemvalue="Application.glew" />
+      <item index="3" class="java.lang.String" itemvalue="Application.glfw" />
+      <item index="4" class="java.lang.String" itemvalue="Application.glfw_objects" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037fab4e-f603-4ec3-9035-339b6aff00de" name="Default" comment="" />
+      <created>1516922509470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516922509470</updated>
+      <workItem from="1516922511361" duration="127000" />
+      <workItem from="1516968987763" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="139" y="23" width="1400" height="902" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="134" column="50" lean-forward="false" selection-start-line="134" selection-start-column="50" selection-end-line="134" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
